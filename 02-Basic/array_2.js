@@ -22,4 +22,6 @@ let shoePrice = 399;
 
 console.log(Array.of(bagPrice, clothPrice, shoePrice))
 
+console.log( " arrow ")
+
 
