@@ -5,3 +5,4 @@ Back to the Basic to Master advanced JavaScript!
 
 ![image](https://github.com/user-attachments/assets/ddd08dd2-c155-4230-897c-f46966d8cbb7)
 ![image](https://github.com/user-attachments/assets/4260236c-f5a6-45d6-a245-81e14cfef2fd)
+![image](https://github.com/user-attachments/assets/4e6583ba-a12a-47c3-b2ec-8d5037f03e28)
