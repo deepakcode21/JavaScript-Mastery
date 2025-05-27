@@ -39,11 +39,11 @@ I’m a **student developer** passionate about learning and creating impactful t
 </div>
 
 <!-- Tech Stack -->
-<div align="center">
+<div >
 
 ### 🛠️ Tech Stack
 
-<p>Technologies and tools I use for IoT and backend development</p>
+<p>Technologies and tools I use for Cyber Security and backend development</p>
 
 #### **Core Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
