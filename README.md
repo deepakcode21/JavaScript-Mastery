@@ -1,8 +1,116 @@
-# JavaScript-Mastery
-Back to the Basic to Master advanced JavaScript!
-![image](https://github.com/user-attachments/assets/4679827a-e009-4c15-8dfe-d886e392cc6b)
-![image](https://github.com/user-attachments/assets/6fce5fee-d68e-47f8-971c-c0b459e59a8a)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header&animation=fadeIn&fontAlignY=45"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-![image](https://github.com/user-attachments/assets/ddd08dd2-c155-4230-897c-f46966d8cbb7)
-![image](https://github.com/user-attachments/assets/4260236c-f5a6-45d6-a245-81e14cfef2fd)
-![image](https://github.com/user-attachments/assets/4e6583ba-a12a-47c3-b2ec-8d5037f03e28)
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
+
+<div align="center">
+<h3 align="center" >║▌║▌║█│▌ ██▓▒­░⡷⠂ ℍ𝕖𝕝𝕝✪ 𝕥𝕙𝕖𝕣𝕖! 𝕀'𝕞 𝔻𝕖𝕖𝕡𝕒𝕜 ℂ✪𝕕𝕖 🥷 ⠐⢾░▒▓██ ║▌║▌║█│▌</h3>
+
+  <div align="center">
+    
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=montserrat&weight=900&size=24&pause=1000&color=F72940&width=435&lines=Software+Development+Engineer;Cyber+Security+Researcher;Backend+Developer)](https://git.io/typing-svg)
+  </div>
+</div>
+
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXM3ODl4d3Q2cmJ1NG9xdGFjYmUxbHFqM2xiemtqZm9leDdhazVseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif"  />
+
+###
+I’m a **student developer** passionate about learning and creating impactful tech solutions.  
+- 🌱 Currently mastering the **MERN Stack** and exploring **AI/ML**  technologies.  
+- 💻 Enjoy solving **DSA problems** and diving into innovative projects.  
+- 🚀 Curious and growth-driven, I view every line of code as a step toward innovation.
+- 🌟 Striving to create applications that are not just functional but also meaningful.
+###
+
+
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
+
+<!-- Stats -->
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/deepakcode21/count.svg?"  />
+</div>
+
+<div align="center"> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakcode21&theme=dracula&hide_border=true" width="55%" ></br>
+<img src="https://github-readme-stats.vercel.app/api?username=deepakcode21&theme=dracula&hide_border=true&include_all_commits=false&count_private=true" width="50%" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakcode21&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width= "46%"></br>
+</div>
+
+<!-- Tech Stack -->
+<div align="center">
+
+### 🛠️ Tech Stack
+
+<p>Technologies and tools I use for IoT and backend development</p>
+
+#### **Core Languages**
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+#### **IoT Platforms**
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
+#### **Backend Development**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+
+#### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### **DevOps & Tools**
+![Mermaid.js](https://img.shields.io/badge/Mermaid.js-FF3670?style=for-the-badge&logo=mermaid&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+</div>
+
+<!-- Socials -->
+<div align="center">
+
+## 🌐 Connect with Me 🍬
+
+  <a href="https://www.instagram.com/deepakmax09/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="deepakcode21@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/deepak-code/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/deepakcode21" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  
+</div>
+
+<!-- trophy-->
+<div align="center">
+ 
+ ## 🏆 GitHub Trophies
+
+   <img src="https://github-profile-trophy.vercel.app?username=deepakcode21&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="175" alt="trophy graph"  />
+
+</div>
+
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepakcode21/deepakcode21/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepakcode21/deepakcode21/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/deepakcode21/deepakcode21/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&animation=fadeIn&fontAlignY=65"/>
