@@ -3,21 +3,22 @@
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
 
-<div align="center">
-<h3 align="center" >║▌║▌║█│▌ ██▓▒­░⡷⠂ ℍ𝕖𝕝𝕝✪ 𝕥𝕙𝕖𝕣𝕖! 𝕀'𝕞 𝔻𝕖𝕖𝕡𝕒𝕜 ℂ✪𝕕𝕖 🥷 ⠐⢾░▒▓██ ║▌║▌║█│▌</h3>
 
-  <div align="center">
-    
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=montserrat&weight=900&size=24&pause=1000&color=F72940&width=435&lines=Software+Development+Engineer;Cyber+Security+Researcher;Backend+Developer)](https://git.io/typing-svg)
-  </div>
-</div>
+
+  
+![DEepak test2 (1128 x 100 px)](https://github.com/user-attachments/assets/a5a9050f-2b4b-4459-8fc4-4e9f0221fcad)
+
+![Software Development Enginer (1128 x 50 px )](https://github.com/user-attachments/assets/23601673-cf6b-4da9-997c-ec2e89971a85)
+
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
+
+
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXM3ODl4d3Q2cmJ1NG9xdGFjYmUxbHFqM2xiemtqZm9leDdhazVseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif"  />
 
 ###
 I’m a **student developer** passionate about learning and creating impactful tech solutions.  
-- 🌱 Currently mastering the **MERN Stack** and exploring **AI/ML**  technologies.  
+- 🌱 Currently mastering the **MERN Stack** and exploring **BlockChain**  technologies.  
 - 💻 Enjoy solving **DSA problems** and diving into innovative projects.  
 - 🚀 Curious and growth-driven, I view every line of code as a step toward innovation.
 - 🌟 Striving to create applications that are not just functional but also meaningful.
@@ -112,5 +113,9 @@ I’m a **student developer** passionate about learning and creating impactful t
 </picture>
 
 ###
+
+
+
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&animation=fadeIn&fontAlignY=65"/>
